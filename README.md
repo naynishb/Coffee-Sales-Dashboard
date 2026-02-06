@@ -1,3 +1,5 @@
+Explore the same data using [bricks](https://app.thebricks.com/file/f8198ae3-9b57-45f1-a99e-312633bb7bd7)
+
 # Coffee Sales Dashboard
 ![Coffee Background Banner (4)](smeeling-coffee-beans_900x_5148e663-e441-4642-af81-ade43296e6b5_900x.jpg)
 
